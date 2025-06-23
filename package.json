@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scss": "sass src/scss:dist/css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
     "url": "https://github.com/lazyguy0230/scss/issues"
   },
   "homepage": "https://github.com/lazyguy0230/scss#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2"
+  },
+  "keywords": [],
+  "devDependencies": {},
   "description": ""
 }
