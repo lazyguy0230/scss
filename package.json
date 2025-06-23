@@ -15,8 +15,5 @@
     "url": "https://github.com/lazyguy0230/scss/issues"
   },
   "homepage": "https://github.com/lazyguy0230/scss#readme",
-  "description": "",
-  "dependencies": {
-    "bootstrap": "^5.3.7"
-  }
+  "description": ""
 }
